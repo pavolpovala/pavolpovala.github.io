@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Pavol Povala</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pavol.povala.com/authors/</link>
+      <atom:link href="https://pavol.povala.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://pavol.povala.com/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://pavol.povala.com/authors/admin/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://pavol.povala.com/authors/admin/</guid>
       <description>&lt;p&gt;I left academia in 2016. This is a personal website collecting my academic and policy work. Best way to contact me is via email.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ľudovít Ódor</title>
-      <link>/authors/ludovit-odor/</link>
+      <link>https://pavol.povala.com/authors/ludovit-odor/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/ludovit-odor/</guid>
+      <guid>https://pavol.povala.com/authors/ludovit-odor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anna Cieslak</title>
-      <link>/authors/anna-cieslak/</link>
+      <link>https://pavol.povala.com/authors/anna-cieslak/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/anna-cieslak/</guid>
+      <guid>https://pavol.povala.com/authors/anna-cieslak/</guid>
       <description></description>
     </item>
     

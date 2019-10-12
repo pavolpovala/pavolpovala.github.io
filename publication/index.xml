@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pavol Povala</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pavol.povala.com/publication/</link>
+      <atom:link href="https://pavol.povala.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Pavol Povala</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
       <title>Pavol Povala</title>
-      <link>/publication/</link>
+      <link>https://pavol.povala.com/publication/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/publication/2016_preprint_slovak_risk_premiums/</link>
+      <link>https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_preprint_slovak_risk_premiums/</guid>
+      <guid>https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information in the Term Structure of Yield Curve Volatility</title>
-      <link>/publication/2016_journal_cieslak_povala_jof/</link>
+      <link>https://pavol.povala.com/publication/2016_journal_cieslak_povala_jof/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_journal_cieslak_povala_jof/</guid>
+      <guid>https://pavol.povala.com/publication/2016_journal_cieslak_povala_jof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expected Returns in Treasury Bonds</title>
-      <link>/publication/2015_journal_cieslak_povala_rfs/</link>
+      <link>https://pavol.povala.com/publication/2015_journal_cieslak_povala_rfs/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_journal_cieslak_povala_rfs/</guid>
+      <guid>https://pavol.povala.com/publication/2015_journal_cieslak_povala_rfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;Risk Premia and Volatilities in a Nonlinear Term Structure Model by Peter Feldhuetter, Christian Heyerdahl-Larsen, and Philipp Illeditsch&#34;</title>
-      <link>/publication/2015_confdis_feldhuetteretal/</link>
+      <link>https://pavol.povala.com/publication/2015_confdis_feldhuetteretal/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_confdis_feldhuetteretal/</guid>
+      <guid>https://pavol.povala.com/publication/2015_confdis_feldhuetteretal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nominal Term Spread, Real Rate and Consumption Growth</title>
-      <link>/publication/2014_preprint_nominal_term_spread/</link>
+      <link>https://pavol.povala.com/publication/2014_preprint_nominal_term_spread/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_preprint_nominal_term_spread/</guid>
+      <guid>https://pavol.povala.com/publication/2014_preprint_nominal_term_spread/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;Interest rate spillovers during quantitative easing by Marcello Pericoli&#34;</title>
-      <link>/publication/2014_confdis_pericoli/</link>
+      <link>https://pavol.povala.com/publication/2014_confdis_pericoli/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_confdis_pericoli/</guid>
+      <guid>https://pavol.povala.com/publication/2014_confdis_pericoli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;Monetary Policy Shocks and Stock Returns - Identification Through Impossible Trinity by  Ozdagli and  Yu&#34;</title>
-      <link>/publication/2012_confdis_ozdagliandyu/</link>
+      <link>https://pavol.povala.com/publication/2012_confdis_ozdagliandyu/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_confdis_ozdagliandyu/</guid>
+      <guid>https://pavol.povala.com/publication/2012_confdis_ozdagliandyu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;The Economics of Options-Implied Inflation Probability Density Functions by Kitsul and Wright&#34;</title>
-      <link>/publication/2012_confdis_kitsulandwright/</link>
+      <link>https://pavol.povala.com/publication/2012_confdis_kitsulandwright/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_confdis_kitsulandwright/</guid>
+      <guid>https://pavol.povala.com/publication/2012_confdis_kitsulandwright/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;A Multi-Country Term Structure Model with Unspanned Risks by Bauer and Diez de los Rios&#34;</title>
-      <link>/publication/2011_confdis_baueretal/</link>
+      <link>https://pavol.povala.com/publication/2011_confdis_baueretal/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_confdis_baueretal/</guid>
+      <guid>https://pavol.povala.com/publication/2011_confdis_baueretal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;Term Structure of Credit Default Swap Spreads and Cross-Section of Stock Returns by  Han and  Zhou&#34;</title>
-      <link>/publication/2011_confdis_hanandzhou/</link>
+      <link>https://pavol.povala.com/publication/2011_confdis_hanandzhou/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_confdis_hanandzhou/</guid>
+      <guid>https://pavol.povala.com/publication/2011_confdis_hanandzhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;Transaction Costs, Trading Volume, and the Liquidity Premium by Muhle-Karbe, Gerhold, Guasoni and Schachermeyer&#34;</title>
-      <link>/publication/2011_confdis_muhlekarbeetal/</link>
+      <link>https://pavol.povala.com/publication/2011_confdis_muhlekarbeetal/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_confdis_muhlekarbeetal/</guid>
+      <guid>https://pavol.povala.com/publication/2011_confdis_muhlekarbeetal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;Exploring the Performance of Government Debt Issuance by  Eisl,  Elendner and  Pichler.&#34;</title>
-      <link>/publication/2010_confdis_eisletal_ewfs/</link>
+      <link>https://pavol.povala.com/publication/2010_confdis_eisletal_ewfs/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/2010_confdis_eisletal_ewfs/</guid>
+      <guid>https://pavol.povala.com/publication/2010_confdis_eisletal_ewfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discussion of &#34;Monetary Policy Disagreement by Rodrigo Guimaraes and Paul Whelan&#34;</title>
-      <link>/publication/2016_confdis_guimaraes/</link>
+      <link>https://pavol.povala.com/publication/2016_confdis_guimaraes/</link>
       <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_confdis_guimaraes/</guid>
+      <guid>https://pavol.povala.com/publication/2016_confdis_guimaraes/</guid>
       <description></description>
     </item>
     

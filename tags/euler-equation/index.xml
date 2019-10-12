@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Euler equation | Pavol Povala</title>
-    <link>/tags/euler-equation/</link>
-      <atom:link href="/tags/euler-equation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pavol.povala.com/tags/euler-equation/</link>
+      <atom:link href="https://pavol.povala.com/tags/euler-equation/index.xml" rel="self" type="application/rss+xml" />
     <description>Euler equation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
       <title>Euler equation</title>
-      <link>/tags/euler-equation/</link>
+      <link>https://pavol.povala.com/tags/euler-equation/</link>
     </image>
     
     <item>
       <title>Nominal Term Spread, Real Rate and Consumption Growth</title>
-      <link>/publication/2014_preprint_nominal_term_spread/</link>
+      <link>https://pavol.povala.com/publication/2014_preprint_nominal_term_spread/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_preprint_nominal_term_spread/</guid>
+      <guid>https://pavol.povala.com/publication/2014_preprint_nominal_term_spread/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy Work | Pavol Povala</title>
-    <link>/policy/</link>
-      <atom:link href="/policy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pavol.povala.com/policy/</link>
+      <atom:link href="https://pavol.povala.com/policy/index.xml" rel="self" type="application/rss+xml" />
     <description>Policy Work</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
       <title>Policy Work</title>
-      <link>/policy/</link>
+      <link>https://pavol.povala.com/policy/</link>
     </image>
     
   </channel>

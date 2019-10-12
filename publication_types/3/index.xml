@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Pavol Povala</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pavol.povala.com/publication_types/3/</link>
+      <atom:link href="https://pavol.povala.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>https://pavol.povala.com/publication_types/3/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/publication/2016_preprint_slovak_risk_premiums/</link>
+      <link>https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_preprint_slovak_risk_premiums/</guid>
+      <guid>https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nominal Term Spread, Real Rate and Consumption Growth</title>
-      <link>/publication/2014_preprint_nominal_term_spread/</link>
+      <link>https://pavol.povala.com/publication/2014_preprint_nominal_term_spread/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_preprint_nominal_term_spread/</guid>
+      <guid>https://pavol.povala.com/publication/2014_preprint_nominal_term_spread/</guid>
       <description></description>
     </item>
     
