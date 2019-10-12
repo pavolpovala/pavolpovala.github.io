@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ľudovít Ódor | Pavol Povala</title>
+    <link>/authors/ludovit-odor/</link>
+      <atom:link href="/authors/ludovit-odor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ľudovít Ódor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ľudovít Ódor</title>
+      <link>/authors/ludovit-odor/</link>
+    </image>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/2016_preprint_slovak_risk_premiums/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_preprint_slovak_risk_premiums/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

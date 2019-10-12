@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>empirical asset pricing | Pavol Povala</title>
+    <link>/tags/empirical-asset-pricing/</link>
+      <atom:link href="/tags/empirical-asset-pricing/index.xml" rel="self" type="application/rss+xml" />
+    <description>empirical asset pricing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>empirical asset pricing</title>
+      <link>/tags/empirical-asset-pricing/</link>
+    </image>
+    
+    <item>
+      <title>Information in the Term Structure of Yield Curve Volatility</title>
+      <link>/publication/2016_journal_cieslak_povala_jof/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_journal_cieslak_povala_jof/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

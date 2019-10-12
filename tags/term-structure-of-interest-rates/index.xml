@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>term structure of interest rates | Pavol Povala</title>
+    <link>/tags/term-structure-of-interest-rates/</link>
+      <atom:link href="/tags/term-structure-of-interest-rates/index.xml" rel="self" type="application/rss+xml" />
+    <description>term structure of interest rates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>term structure of interest rates</title>
+      <link>/tags/term-structure-of-interest-rates/</link>
+    </image>
+    
+    <item>
+      <title>Nominal Term Spread, Real Rate and Consumption Growth</title>
+      <link>/publication/2014_preprint_nominal_term_spread/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014_preprint_nominal_term_spread/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

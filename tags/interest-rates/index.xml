@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interest Rates | Pavol Povala</title>
+    <link>/tags/interest-rates/</link>
+      <atom:link href="/tags/interest-rates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interest Rates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Interest Rates</title>
+      <link>/tags/interest-rates/</link>
+    </image>
+    
+    <item>
+      <title>Expected Returns in Treasury Bonds</title>
+      <link>/publication/2015_journal_cieslak_povala_rfs/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_journal_cieslak_povala_rfs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
