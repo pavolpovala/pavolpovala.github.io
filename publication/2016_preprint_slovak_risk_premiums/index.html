@@ -92,6 +92,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121630943-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-121630943-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -118,7 +154,7 @@
   
   <meta property="og:site_name" content="Pavol Povala">
   <meta property="og:url" content="https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/">
-  <meta property="og:title" content="An example preprint / working paper | Pavol Povala">
+  <meta property="og:title" content="Risk Premiums in Slovak Government Bonds | Pavol Povala">
   <meta property="og:description" content="We study risk premiums in Slovak government bonds.  We focus on the country-specific part of yieldswhich we associate with the spread to overnight-indexed swaps. In the period 2009-2015, we decomposethe term structure of spreads to credit risk premium, liquidity premium, safety/convenience demand, andsegmentation effects.   While the level of the term structure of spreads is mostly related to sovereigncredit risk, non-default components are related to the second principal component of spreads.  We alsoidentify a siezable effect of public sector purchase programme conducted by the European Central Bankwith a magnitude in excess of 60 basis points for the ten-year bond.  To study determinants of spreadsin a longer sample 2000-2015, we construct credit spreads from international euro-denominated bonds.We find that debt-to-GDP ratio together with global financial variables explain a substantial fraction ofspread variation."><meta property="og:image" content="https://pavol.povala.com/img/icon-192.png">
   <meta property="twitter:image" content="https://pavol.povala.com/img/icon-192.png"><meta property="og:locale" content="en-us">
   
@@ -151,7 +187,7 @@
     "@type": "WebPage",
     "@id": "https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/"
   },
-  "headline": "An example preprint / working paper",
+  "headline": "Risk Premiums in Slovak Government Bonds",
   
   "datePublished": "2016-01-01T00:00:00Z",
   "dateModified": "2016-10-07T00:00:00Z",
@@ -187,7 +223,7 @@
 
 
 
-  <title>An example preprint / working paper | Pavol Povala</title>
+  <title>Risk Premiums in Slovak Government Bonds | Pavol Povala</title>
 
 </head>
 
@@ -383,7 +419,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>An example preprint / working paper</h1>
+  <h1>Risk Premiums in Slovak Government Bonds</h1>
 
   
 
@@ -570,7 +606,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/&amp;text=An%20example%20preprint%20/%20working%20paper" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/&amp;text=Risk%20Premiums%20in%20Slovak%20Government%20Bonds" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -583,7 +619,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/&amp;t=An%20example%20preprint%20/%20working%20paper" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/&amp;t=Risk%20Premiums%20in%20Slovak%20Government%20Bonds" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -596,7 +632,7 @@
       
       
       <li>
-        <a href="mailto:?subject=An%20example%20preprint%20/%20working%20paper&amp;body=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Risk%20Premiums%20in%20Slovak%20Government%20Bonds&amp;body=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -609,7 +645,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/&amp;title=An%20example%20preprint%20/%20working%20paper" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/&amp;title=Risk%20Premiums%20in%20Slovak%20Government%20Bonds" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>

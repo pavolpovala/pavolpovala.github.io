@@ -92,6 +92,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121630943-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-121630943-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -352,7 +388,7 @@
   
   
   <div>
-    <h2><a href="/publication/2016_preprint_slovak_risk_premiums/">An example preprint / working paper</a></h2>
+    <h2><a href="/publication/2016_preprint_slovak_risk_premiums/">Risk Premiums in Slovak Government Bonds</a></h2>
     <div class="article-style">
       
       We study risk premiums in Slovak government bonds.  We focus on the country-specific part of yieldswhich we associate with the spread to overnight-indexed swaps. In the period 2009-2015, we decomposethe term structure of spreads to credit risk …

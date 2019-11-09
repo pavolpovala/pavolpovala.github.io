@@ -92,6 +92,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121630943-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-121630943-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -499,7 +535,7 @@
     
     <h1>Biography</h1>
 
-    <p>I left academia in 2016. This is a personal website collecting my academic and policy work. Best way to contact me is via email.</p>
+    <p>This is a personal website collecting my academic and policy work. Best way to contact me is via email.</p>
 
 
     <div class="row">
