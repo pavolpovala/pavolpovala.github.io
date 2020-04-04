@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yield curve models on Pavol Povala</title>
+    <title>yield curve models | Pavol Povala</title>
     <link>https://pavol.povala.com/tags/yield-curve-models/</link>
-    <description>Recent content in yield curve models on Pavol Povala</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Pavol Povala {year}</copyright>
-    <lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pavol.povala.com/tags/yield-curve-models/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://pavol.povala.com/tags/yield-curve-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>yield curve models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2020</copyright><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
+      <title>yield curve models</title>
+      <link>https://pavol.povala.com/tags/yield-curve-models/</link>
+    </image>
     
     <item>
       <title>Risk Premiums in Slovak Government Bonds</title>
       <link>https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://pavol.povala.com/publication/2016_preprint_slovak_risk_premiums/</guid>
       <description></description>
     </item>

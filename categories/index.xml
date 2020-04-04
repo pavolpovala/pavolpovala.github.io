@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Pavol Povala</title>
+    <title>Categories | Pavol Povala</title>
     <link>https://pavol.povala.com/categories/</link>
-    <description>Recent content in Categories on Pavol Povala</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Pavol Povala {year}</copyright>
-    
-	<atom:link href="https://pavol.povala.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://pavol.povala.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2020</copyright>
+    <image>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://pavol.povala.com/categories/</link>
+    </image>
     
   </channel>
 </rss>
