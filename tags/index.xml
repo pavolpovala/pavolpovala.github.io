@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Pavol Povala</title>
+    <title>Tags on Pavol Povala</title>
     <link>https://pavol.povala.com/tags/</link>
-      <atom:link href="https://pavol.povala.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://pavol.povala.com/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://pavol.povala.com/tags/</link>
-    </image>
+    <description>Recent content in Tags on Pavol Povala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pavol Povala {year}</copyright>
+    <lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pavol.povala.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>liquidity</title>
       <link>https://pavol.povala.com/tags/liquidity/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/liquidity/</guid>
       <description></description>
     </item>
@@ -24,6 +25,7 @@
       <title>Risk premiums</title>
       <link>https://pavol.povala.com/tags/risk-premiums/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/risk-premiums/</guid>
       <description></description>
     </item>
@@ -32,6 +34,7 @@
       <title>sovereign credit risk</title>
       <link>https://pavol.povala.com/tags/sovereign-credit-risk/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/sovereign-credit-risk/</guid>
       <description></description>
     </item>
@@ -40,6 +43,7 @@
       <title>yield curve models</title>
       <link>https://pavol.povala.com/tags/yield-curve-models/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/yield-curve-models/</guid>
       <description></description>
     </item>
@@ -48,6 +52,7 @@
       <title>applied econometrics</title>
       <link>https://pavol.povala.com/tags/applied-econometrics/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/applied-econometrics/</guid>
       <description></description>
     </item>
@@ -56,6 +61,7 @@
       <title>empirical asset pricing</title>
       <link>https://pavol.povala.com/tags/empirical-asset-pricing/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/empirical-asset-pricing/</guid>
       <description></description>
     </item>
@@ -64,6 +70,7 @@
       <title>high frequency data</title>
       <link>https://pavol.povala.com/tags/high-frequency-data/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/high-frequency-data/</guid>
       <description></description>
     </item>
@@ -72,6 +79,7 @@
       <title>volatility</title>
       <link>https://pavol.povala.com/tags/volatility/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/volatility/</guid>
       <description></description>
     </item>
@@ -80,6 +88,7 @@
       <title>yield curve modelling</title>
       <link>https://pavol.povala.com/tags/yield-curve-modelling/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/yield-curve-modelling/</guid>
       <description></description>
     </item>
@@ -88,6 +97,7 @@
       <title>Asset Pricing</title>
       <link>https://pavol.povala.com/tags/asset-pricing/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/asset-pricing/</guid>
       <description></description>
     </item>
@@ -96,6 +106,7 @@
       <title>Bond Interest Rates</title>
       <link>https://pavol.povala.com/tags/bond-interest-rates/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/bond-interest-rates/</guid>
       <description></description>
     </item>
@@ -104,6 +115,7 @@
       <title>Interest Rates</title>
       <link>https://pavol.povala.com/tags/interest-rates/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/interest-rates/</guid>
       <description></description>
     </item>
@@ -112,6 +124,7 @@
       <title>Term Structure</title>
       <link>https://pavol.povala.com/tags/term-structure/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/term-structure/</guid>
       <description></description>
     </item>
@@ -120,6 +133,7 @@
       <title>Trading volume</title>
       <link>https://pavol.povala.com/tags/trading-volume/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/trading-volume/</guid>
       <description></description>
     </item>
@@ -128,6 +142,7 @@
       <title>elasticity of intertemporal substitution</title>
       <link>https://pavol.povala.com/tags/elasticity-of-intertemporal-substitution/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/elasticity-of-intertemporal-substitution/</guid>
       <description></description>
     </item>
@@ -136,6 +151,7 @@
       <title>Euler equation</title>
       <link>https://pavol.povala.com/tags/euler-equation/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/euler-equation/</guid>
       <description></description>
     </item>
@@ -144,6 +160,7 @@
       <title>Real interest rate</title>
       <link>https://pavol.povala.com/tags/real-interest-rate/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/real-interest-rate/</guid>
       <description></description>
     </item>
@@ -152,6 +169,7 @@
       <title>term structure of interest rates</title>
       <link>https://pavol.povala.com/tags/term-structure-of-interest-rates/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://pavol.povala.com/tags/term-structure-of-interest-rates/</guid>
       <description></description>
     </item>

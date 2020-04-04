@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching | Pavol Povala</title>
+    <title>Teaching on Pavol Povala</title>
     <link>https://pavol.povala.com/teaching/</link>
-      <atom:link href="https://pavol.povala.com/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://pavol.povala.com/img/icon-192.png</url>
-      <title>Teaching</title>
-      <link>https://pavol.povala.com/teaching/</link>
-    </image>
+    <description>Recent content in Teaching on Pavol Povala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pavol Povala {year}</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pavol.povala.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
