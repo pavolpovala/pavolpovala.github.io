@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Research | Pavol Povala</title>
+    <link>https://pavol.povala.com/applied_research/</link>
+      <atom:link href="https://pavol.povala.com/applied_research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Applied Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
+      <title>Applied Research</title>
+      <link>https://pavol.povala.com/applied_research/</link>
+    </image>
+    
+  </channel>
+</rss>
