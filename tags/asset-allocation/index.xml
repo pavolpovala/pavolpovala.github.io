@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asset allocation | Pavol Povala</title>
+    <link>https://pavol.povala.com/tags/asset-allocation/</link>
+      <atom:link href="https://pavol.povala.com/tags/asset-allocation/index.xml" rel="self" type="application/rss+xml" />
+    <description>asset allocation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2023</copyright><lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavol.povala.com/img/icon-192.png</url>
+      <title>asset allocation</title>
+      <link>https://pavol.povala.com/tags/asset-allocation/</link>
+    </image>
+    
+    <item>
+      <title>Simulating Long-horizon Returns on Government Bonds</title>
+      <link>https://pavol.povala.com/publication/2023_journal_chin_povala_jofi/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pavol.povala.com/publication/2023_journal_chin_povala_jofi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

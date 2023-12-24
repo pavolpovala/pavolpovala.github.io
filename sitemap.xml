@@ -3,12 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pavol.povala.com/applied_research/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>https://pavol.povala.com/authors/admin/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/publication/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/publication_types/2/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/tags/asset-allocation/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/authors/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/tags/empirical-asset-pricing/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/tags/macro-trends/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/authors/michael-chin/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pavol.povala.com/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/publication_types/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/publication/2023_journal_chin_povala_jofi/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/tags/simulation-mode/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/tags/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/tags/yield-curve-modelling/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pavol.povala.com/applied_research/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,32 +88,12 @@
   </url>
   
   <url>
-    <loc>https://pavol.povala.com/authors/admin/</loc>
-    <lastmod>2016-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pavol.povala.com/publication/</loc>
-    <lastmod>2016-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pavol.povala.com/publication_types/3/</loc>
     <lastmod>2016-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pavol.povala.com/authors/</loc>
-    <lastmod>2016-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pavol.povala.com/tags/liquidity/</loc>
-    <lastmod>2016-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pavol.povala.com/publication_types/</loc>
     <lastmod>2016-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://pavol.povala.com/tags/</loc>
-    <lastmod>2016-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pavol.povala.com/tags/yield-curve-models/</loc>
     <lastmod>2016-10-07T00:00:00+00:00</lastmod>
   </url>
@@ -83,22 +123,12 @@
   </url>
   
   <url>
-    <loc>https://pavol.povala.com/publication_types/2/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pavol.povala.com/authors/anna-cieslak/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pavol.povala.com/tags/applied-econometrics/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pavol.povala.com/tags/empirical-asset-pricing/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,11 +144,6 @@
   
   <url>
     <loc>https://pavol.povala.com/tags/volatility/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pavol.povala.com/tags/yield-curve-modelling/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url>
   
