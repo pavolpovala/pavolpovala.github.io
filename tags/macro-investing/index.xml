@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>asset allocation | Pavol Povala</title>
-    <link>https://pavol.povala.com/tags/asset-allocation/</link>
-      <atom:link href="https://pavol.povala.com/tags/asset-allocation/index.xml" rel="self" type="application/rss+xml" />
-    <description>asset allocation</description>
+    <title>macro investing | Pavol Povala</title>
+    <link>https://pavol.povala.com/tags/macro-investing/</link>
+      <atom:link href="https://pavol.povala.com/tags/macro-investing/index.xml" rel="self" type="application/rss+xml" />
+    <description>macro investing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Pavol Povala 2024</copyright><lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pavol.povala.com/img/icon-192.png</url>
-      <title>asset allocation</title>
-      <link>https://pavol.povala.com/tags/asset-allocation/</link>
+      <title>macro investing</title>
+      <link>https://pavol.povala.com/tags/macro-investing/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://pavol.povala.com/publication/2024_journal_chin_povala_jai/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://pavol.povala.com/publication/2024_journal_chin_povala_jai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulating Long-horizon Returns on Government Bonds</title>
-      <link>https://pavol.povala.com/publication/2023_journal_chin_povala_jofi/</link>
-      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://pavol.povala.com/publication/2023_journal_chin_povala_jofi/</guid>
       <description></description>
     </item>
     
